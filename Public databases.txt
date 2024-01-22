@@ -1,0 +1,27 @@
+Public databases
+
+Instituto de Investigación de Recursos Biológicos - Alexander von Humboldt
+http://biomodelos.humboldt.org.co/
+http://geonetwork.humboldt.org.co/geonetwork/srv/spa/catalog.search#/home
+http://i2d.humboldt.org.co/ceiba/
+
+Servicio Geológico Colombian
+http://bdrsnc.sgc.gov.co/paginas1/catalogo/index.php
+
+IGAC
+https://www.colombiaenmapas.gov.co/
+
+CEPAL
+https://estadisticas.cepal.org/cepalstat/web_cepalstat/estadisticasindicadores.asp
+
+Statistisches Bundesamt
+https://www.destatis.de/EN/Home/_node.html
+https://www.statistik-berlin-brandenburg.de/stadtstatistik
+https://hub.arcgis.com/datasets/ae25571c60d94ce5b7fcbf74e27c00e0/about
+
+EuroGeographics
+https://www.mapsforeurope.org/access-data
+
+Eurostat
+https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes?lang=en&display=list&sort=category
+https://www.regionalstatistik.de/genesis/online
