@@ -25,3 +25,6 @@ https://www.mapsforeurope.org/access-data
 Eurostat
 https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes?lang=en&display=list&sort=category
 https://www.regionalstatistik.de/genesis/online
+
+Min Educación
+https://hecaa.mineducacion.gov.co/consultaspublicas/programas
