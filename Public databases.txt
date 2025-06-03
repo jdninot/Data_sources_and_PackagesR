@@ -29,20 +29,9 @@ https://www.regionalstatistik.de/genesis/online
 Min Educación
 https://hecaa.mineducacion.gov.co/consultaspublicas/programas
 
-# https://epirhandbook.com/en/new_pages/tables_descriptive.html
-# https://epirhandbook.com/en/
-library(rio)
-library(tidyverse)
-library(car)
-library(lmtest)
-library(lmerTest)
-library(gtsummary)
-library(reshape2)
-library(emmeans)
-library(gee)
-library(glmtoolbox)
-library(skimr)
-library(rstatix)
-library(janitor)
-library(sjPlot)
+Notebook
+https://epirhandbook.com/en/new_pages/tables_descriptive.html
+https://epirhandbook.com/en/
 
+DANE
+https://systema59.dane.gov.co/bincol/RpWebEngine.exe/Portal?BASE=CNPVBASE4V2&lang=esp
